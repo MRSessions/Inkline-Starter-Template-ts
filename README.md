@@ -1,4 +1,4 @@
-# inkline-starter-template-ts
+# Inkline Starter Template (TypeScript)
 
 [Link to the JavaScript version of this project.](https://github.com/MRSessions/Inkline-Starter-Template)
 
